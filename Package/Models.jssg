@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 package gemini.workshop;
-
+ 
 import dev.langchain4j.memory.chat.MessageWindowChatMemory;
 import dev.langchain4j.model.chat.ChatLanguageModel;
 import dev.langchain4j.data.document.Document;
